@@ -18,7 +18,7 @@
 HormigasAIS es una infraestructura de inteligencia distribuida y soberana basada en el principio de la **"Colonia de Hormigas"**. Utilizamos agentes autónomos ligeros para resolver problemas complejos de monitoreo, automatización y seguridad en el borde (**Edge Computing**).
 
 ### Características Principales:
-- **Soberanía de Datos:** Control total mediante firmas GPG.
+- **Soberanía de Datos:** Control total mediante firmas GPG locales.
 - **Eficiencia Extrema:** Consumo optimizado para hardware limitado.
 - **Resiliencia:** Capacidad de operación en entornos de red inestables.
 
@@ -30,7 +30,7 @@ HormigasAIS es una infraestructura de inteligencia distribuida y soberana basada
 | Métrica | Valor Detectado |
 | :--- | :--- |
 | **Consumo RAM Agente** | 3284 KB |
-| **Identidad Soberana** | DFA9F450914957C1 |
+| **Firma de Estado** | [VERIFICADA POR GPG SOBERANO] |
 | **Estado de Red** | Nominal / Resiliente |
 | **Protocolo** | LBH-Binary-V1 |
 
