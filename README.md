@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Thrumanshow/Thrumanshow/main/logo.png" width="300" alt="HormigasAIS Logo">
+  <img src="https://raw.githubusercontent.com/Thrumanshow/Thrumanshow/main/logo_actualizado.svg" width="300" alt="HormigasAIS Logo">
   <br>
   <code>. . . . . 🐜 . . . . . 🐜 . . . . . 🐜 . . .</code>
   <br>
