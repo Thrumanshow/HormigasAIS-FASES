@@ -20,6 +20,20 @@ HormigasAIS es una infraestructura de inteligencia soberana basada en el princip
 
 ---
 
+## 📊 Comparación conceptual
+
+| Eje | Plataformas Centralizadas | Edge / Sistemas Distribuidos Tradicionales | HormigasAIS (LBH) |
+|----|---------------------------|--------------------------------------------|------------------|
+| Modelo de control | Centralizado | Federado / Dependiente | **Soberanía local del nodo** |
+| Dependencia de infraestructura | Alta (cloud-first) | Media (cloud-assisted) | **Autónoma por diseño** |
+| Gobernanza del sistema | Impuesta por proveedor | Políticas externas | **Contratos LBH + validación local** |
+| Exposición operativa | Telemetría continua | APIs abiertas | **Estado declarativo y sellado** |
+| Escalabilidad | Vertical / planificada | Horizontal gestionada | **Enjambre orgánico (Swarm)** |
+
+📚 *La comparación técnica y conceptual completa será documentada en la Wiki del proyecto.*
+
+---
+
 ## 🛠️ Telemetría del Enjambre (FASE 5)
 *Última validación de red distribuida:*
 
