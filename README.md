@@ -23,7 +23,7 @@ HormigasAIS es una infraestructura de inteligencia soberana basada en el princip
 ## 📊 Comparación conceptual
 
 | Eje | Plataformas Centralizadas | Edge / Sistemas Distribuidos Tradicionales | HormigasAIS (LBH) |
-|----|---------------------------|--------------------------------------------|------------------|
+|:---|:---|:---|:---|
 | Modelo de control | Centralizado | Federado / Dependiente | **Soberanía local del nodo** |
 | Dependencia de infraestructura | Alta (cloud-first) | Media (cloud-assisted) | **Autónoma por diseño** |
 | Gobernanza del sistema | Impuesta por proveedor | Políticas externas | **Contratos LBH + validación local** |
@@ -43,6 +43,19 @@ HormigasAIS es una infraestructura de inteligencia soberana basada en el princip
 | **Protocolo de Comunicación** | XOXO-BUS Feromonas |
 | **Gobernanza** | Contrato LBH Firmado |
 | **Soberanía Criptográfica** | [VERIFICADA POR GPG SOBERANO] |
+
+---
+
+## 📐 Especificación Técnica del Protocolo
+
+| Documento | Descripción |
+|-----------|-------------|
+| [WIRE_FORMAT.md](https://github.com/HormigasAIS/lbh-spec/blob/main/WIRE_FORMAT.md) | Formato de mensaje y firma |
+| [CONSENSUS.md](https://github.com/HormigasAIS/lbh-spec/blob/main/CONSENSUS.md) | Consenso BLE + Raft |
+| [CRYPTO.md](https://github.com/HormigasAIS/lbh-spec/blob/main/CRYPTO.md) | AES-256-GCM + HMAC-SHA256 |
+| [VERIFICATION.md](https://github.com/HormigasAIS/lbh-spec/blob/main/VERIFICATION.md) | Guía de auditoría externa |
+
+**→ Especificación completa: [HormigasAIS/lbh-spec](https://github.com/HormigasAIS/lbh-spec)**
 
 ---
 
